@@ -1,5 +1,7 @@
 # rigol-dho-mcp
 
+**English** | [ภาษาไทย](README.th.md)
+
 MCP server for the Rigol DHO900 series oscilloscopes (tested on DHO924S). It lets an AI assistant such as Claude control the scope over VISA and build test reports.
 
 ## Features
