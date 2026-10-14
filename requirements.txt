@@ -1,0 +1,6 @@
+fastmcp
+pyvisa
+pyvisa-py
+numpy
+matplotlib
+python-docx
